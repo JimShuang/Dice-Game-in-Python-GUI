@@ -10,7 +10,7 @@ window.geometry('1800x800')
 balance = 1000
 b, s, o, e, w = 0, 0, 0, 0, 0
 
-image_path = r'C:\Users\jiajunshuang\PycharmProjects\diesgame\dice_image'
+image_path = r'***Your work directory***'
 
 canvas = tk.Canvas(window, bg='green', height=300, width=800)
 canvas.pack()
